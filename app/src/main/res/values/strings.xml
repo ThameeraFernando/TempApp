@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tempCal</string>
+    <string name="rbcelcius">Celcius</string>
+    <string name="rbFahrenheit">Fahrenheit</string>
+    <string name="btn">Calculate</string>
+    <string name="hint">Enter Temperature</string>
+</resources>
